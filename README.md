@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
