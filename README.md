@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0217-contains-duplicate) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0217-contains-duplicate) |
