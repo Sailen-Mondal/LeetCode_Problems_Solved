@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0128-longest-consecutive-sequence) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0242-valid-anagram) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
