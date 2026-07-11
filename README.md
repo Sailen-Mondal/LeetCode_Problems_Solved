@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0128-longest-consecutive-sequence) |
+| [2685-count-the-number-of-complete-components](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/2685-count-the-number-of-complete-components) |
 ## String
 |  |
 | ------- |
@@ -88,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/2685-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
