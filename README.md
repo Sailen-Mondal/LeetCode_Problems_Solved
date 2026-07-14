@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [1288-remove-covered-intervals](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/1288-remove-covered-intervals) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0066-plus-one) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0118-pascals-triangle) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
