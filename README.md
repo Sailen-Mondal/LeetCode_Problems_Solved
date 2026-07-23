@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0128-longest-consecutive-sequence) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
