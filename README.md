@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0016-3sum-closest](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0387-first-unique-character-in-a-string) |
