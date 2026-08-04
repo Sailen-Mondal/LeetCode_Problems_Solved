@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [1288-remove-covered-intervals](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/1288-remove-covered-intervals) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3731-find-missing-elements](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [3731-find-missing-elements](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [1288-remove-covered-intervals](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/1288-remove-covered-intervals) |
+| [3731-find-missing-elements](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
