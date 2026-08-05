@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [1288-remove-covered-intervals](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/1288-remove-covered-intervals) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3731-find-missing-elements](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3731-find-missing-elements) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sailen-Mondal/LeetCode_Problems_Solved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Depth-First Search
 |  |
